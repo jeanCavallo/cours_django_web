@@ -1,0 +1,7 @@
+db.sqlite3
+__pychache__
+*.pyc
+.DS_Store
+out
+.idea
+Django_Web.iml
